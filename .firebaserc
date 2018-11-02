@@ -1,5 +1,6 @@
 {
   "projects": {
-    "rps": "rps-multiplayer-d6cd1"
+    "rps": "rps-multiplayer-d6cd1",
+    "default": "rps-multiplayer-d6cd1"
   }
 }
